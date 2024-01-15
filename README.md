@@ -1,1 +1,3 @@
 # Email-Summarizer
+In today's fast-paced world, individuals and businesses receive an overwhelming amount of emails daily. Manually going through each email to extract essential information is time-consuming and inefficient. The need for an automated solution that can summarize emails, providing key details while saving time and improving productivity, is evident.
+The main idea is to develop an NLP-based system capable of reading and summarizing emails received, condensing the content into concise and informative summaries. The system will prioritize critical details such as main topics, action items, and important dates.
